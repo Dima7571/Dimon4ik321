@@ -1,0 +1,5 @@
+sceneSetups:
+- path: Assets/VoidWalkerChapter1/Scenes/MainMenuScene.unity
+  isLoaded: 1
+  isActive: 1
+  isSubScene: 0
